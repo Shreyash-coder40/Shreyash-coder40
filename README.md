@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=435&height=50&lines=Hello%2C+I+am+Shreyash+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=435&height=50&lines=Hello%2C+I+am+Shreyash" alt="Typing SVG" />
 </p>
 
 <h2 align="left">Hi 👋! My name is Shreyash... and I'm currently learning about software development 👨‍💻</h2>
