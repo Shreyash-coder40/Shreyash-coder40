@@ -1,40 +1,43 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:22c55e&height=260&section=header&text=Shreyash%20Debnath&fontSize=52&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:22c55e&height=270&section=header&text=Shreyash%20Debnath&fontSize=54&fontColor=ffffff"/>
 
-<h3>🚀 Full-Stack Developer • 3D Web Animator • Hackathon Builder</h3>
+<h2>🚀 Full-Stack Developer • 3D Web Animator</h2>
+<h4>Hackathon Builder | Internship Seeker</h4>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2600&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+with+3D+UI+Focus;Frontend+%2B+Backend+Problem+Solver;React+%7C+Python+%7C+Node+%7C+SQL;Hackathon+Ready+%7C+Internship+Seeker"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=23&duration=2400&color=38BDF8&center=true&vCenter=true&width=950&lines=Full+Stack+Developer+with+3D+UI+Expertise;React+%7C+Three.js+%7C+Python+%7C+SQL;Frontend+%2B+Backend+Problem+Solver;Building+End-to-End+Applications;Hackathon+Ready+%7C+Industry+Focused"/>
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=38"/>
+<!-- 3D DEPTH DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=50"/>
 
-## 🧠 Professional Summary
+## 🧠 Professional Overview
 
-I am a **Full-Stack Developer** with a strong focus on **3D-enhanced frontend experiences** and **robust backend systems**.  
-I enjoy building **end-to-end applications**, combining **clean UI, smooth animations, scalable backend logic, and well-designed databases**.
+I am a **Full-Stack Developer** specializing in **3D-enhanced frontend experiences** and **scalable backend systems**.  
+I focus on building **complete products**—from **database design** to **API development** to **interactive 3D user interfaces**.
 
-I actively participate in **hackathons** and am seeking **Full-Stack / Frontend internship opportunities**.
+I enjoy **hackathons**, rapid MVP building, and am actively seeking **internship opportunities**.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=38"/>
+<!-- 3D DEPTH DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=50"/>
 
-## 🛠️ Technical Expertise
+## 🛠️ Technology Stack
 
-### 🎨 Frontend Development
+### 🎨 Frontend
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
-### 🌌 3D & Motion Design
+### 🌌 3D & Motion
 <p align="center">
 <img src="https://skillicons.dev/icons?i=threejs" />
-<img height="46" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/gsap.svg"/>
-<img height="46" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/framer.svg"/>
+<img height="48" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/gsap.svg"/>
+<img height="48" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/framer.svg"/>
 </p>
 
 ### ⚙️ Backend & Programming
@@ -54,51 +57,55 @@ I actively participate in **hackathons** and am seeking **Full-Stack / Frontend 
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=38"/>
+<!-- 3D DEPTH DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=50"/>
 
-## 🏆 Hackathon Capabilities
+## 🏆 Hackathon Strengths
 
 ✔ Rapid full-stack MVP development  
-✔ API & database integration under time constraints  
-✔ Visually compelling UI for judges  
-✔ Clear system architecture explanation  
-✔ Confident demo and presentation delivery  
+✔ API + database integration under time pressure  
+✔ Visually impressive UI for judges  
+✔ Clear architecture explanation  
+✔ Confident demo & presentation  
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=38"/>
+<!-- 3D DEPTH DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=50"/>
 
-## 💼 Internship Value Proposition
+## 💼 Internship Value
 
 ✅ End-to-end feature ownership  
-✅ Strong problem-solving using **Python & C++**  
-✅ REST API development with **Flask, Django & Express**  
+✅ Strong logic with **Python & C++**  
+✅ REST APIs using **Flask, Django & Express**  
 ✅ SQL schema design & optimized queries  
-✅ Clean, maintainable and scalable codebase  
+✅ Clean, maintainable and scalable code  
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=38"/>
+<!-- 3D DEPTH DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=50"/>
 
-## 📊 GitHub Activity
+## 📊 GitHub Statistics (Visible & Working)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=false" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=transparent&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=false" height="180"/>
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=38"/>
+<!-- 3D DEPTH DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=50"/>
 
-## 🌍 Contact & Profiles
+## 🌍 Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/shreyash-debnath-0719a93a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+<a href="https://linkedin.com/in/your-linkedin">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -106,7 +113,7 @@ I actively participate in **hackathons** and am seeking **Full-Stack / Frontend 
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="mailto:shreyashdebnath2@gmail.com">
+<a href="mailto:yourmail@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -114,7 +121,7 @@ I actively participate in **hackathons** and am seeking **Full-Stack / Frontend 
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:6366f1,100:0ea5e9&height=160&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:6366f1,100:0ea5e9&height=180&section=footer"/>
 
-### 🌠 “Building complete systems — from database to 3D user experience.”
+### 🌠 “Engineering complete systems — from database to 3D user experience.”
 
