@@ -98,7 +98,7 @@ I actively participate in **hackathons** and am seeking **Full-Stack / Frontend 
 
 <div align="center">
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://www.linkedin.com/in/shreyash-debnath-0719a93a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -106,7 +106,7 @@ I actively participate in **hackathons** and am seeking **Full-Stack / Frontend 
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:shreyashdebnath2@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
