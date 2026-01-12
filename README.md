@@ -86,7 +86,7 @@ I enjoy **hackathons**, rapid MVP building, and am actively seeking **internship
 <!-- 3D DEPTH DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=50"/>
 
-## 📊 GitHub Statistics (Visible & Working)
+
 
 ## 📊 GitHub Stats
 
