@@ -90,9 +90,9 @@ I enjoy **hackathons**, rapid MVP building, and am actively seeking **internship
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=false" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shreyash-coder40&show_icons=true&theme=tokyonight&hide_border=false" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=false" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Shreyash-coder40&theme=tokyonight&hide_border=false" height="180"/>
 
 </div>
 
